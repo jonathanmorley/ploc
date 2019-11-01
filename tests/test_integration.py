@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
-import unittest
-import subprocess
+import fnmatch
 import json
 import os
-import fnmatch
+import subprocess
+import unittest
+
 
 class IntegrationTestAgainstTokei(unittest.TestCase):
 

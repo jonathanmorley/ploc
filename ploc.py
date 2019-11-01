@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
-import sys
 import os
+import sys
+
 
 class PythonFile(object):
     def __init__(self, path):

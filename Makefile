@@ -1,5 +1,5 @@
 test:
-	python -m unittest discover
+	#python -m unittest discover
 
 run:
-	./cloc.py ./cloc.py
+	./ploc.py ./ploc.py
